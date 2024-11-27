@@ -7,7 +7,7 @@ I'm a third year student at [Universitat Politècnica de Catalunya](https://www.
 <img width="80" src="icons/c.svg"  alt="c"/> <img width="80" src="icons/cplusplus.svg"  alt="c++"/> <img width="80" src="icons/python.svg"  alt="python"/> <img width="80" src="icons/java.svg"  alt="java"/>
 <img width="80" src="icons/git.svg"  alt="git"/> <img width="80" src="icons/gitlab.svg"  alt="gitlab"/>
 
-In the following months, i plan to improve my skills and acquire new knowledge in the following frameworks:
+In the following months, I plan to improve my skills and acquire new knowledge in the following frameworks:
 
 <img width="80" src="icons/react.svg"  alt="react"/> <img width="80" src="icons/django.svg"  alt="django"/>
 
