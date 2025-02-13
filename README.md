@@ -18,10 +18,7 @@ I'm a third year student at [Universitat Politècnica de Catalunya](https://www.
 ---
 At the moment, I'm working in several projects that use the following technologies:
 
-<img width="80" src="icons/react.svg"  alt="react"/> 
-<img width="80" src="icons/django.svg"  alt="django"/>
-<img width="80" src="icons/angular.svg"  alt="angular"/> 
-<img width="80" src="icons/springboot.svg"  alt="springboot"/>
+<img width="80" src="icons/react.svg"  alt="react"/> <img width="80" src="icons/django.svg"  alt="django"/> <img width="80" src="icons/angular.svg"  alt="angular"/> <img width="80" src="icons/springboot.svg"  alt="springboot"/>
 
 ## STATISTICS
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenpalavacas&show_icons=true&theme=transparent)
