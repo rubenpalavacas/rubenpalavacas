@@ -1,7 +1,7 @@
 # ABOUT ME
 My name is Rubén Pal**à** Vacas.
 
-I'm a third year student at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), [Facultat de Informàtica de Barcelona](https://www.fib.upc.edu/es). 
+I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), [Facultat de Informàtica de Barcelona](https://www.fib.upc.edu/es). 
 
 ## CODING SKILLS
 
