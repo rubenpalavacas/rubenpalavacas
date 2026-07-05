@@ -3,49 +3,6 @@ My name is Rubén Pal**à** Vacas.
 
 I'm a freshly graduated student at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), [Facultat d'Informàtica de Barcelona](https://www.fib.upc.edu/es).
 
-## Technologies
-
-<p>A rundown of the tools and languages I've worked with across academic and professional projects. What I reach for, and why.</p>
-
-### Version control
-
-<img align="right" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Git | GitHub | GitLab" />
-
-<p><strong>Git</strong> and <strong>GitLab</strong>, daily with Gitflow-style branching. Team merges over rebases, personal opinion (sorry, rebase lovers).</p>
-
-<br clear="all" />
-
-### C & C++
-
-<img align="right" src="https://skillicons.dev/icons?i=c,cpp" alt="C | C++" />
-
-<p>Where I learned the fundamentals. Proudest project: <a href="https://github.com/DidacDV/NinjaGear-2D.git">Ninja Gear</a>, a 2D Metal Gear-inspired game.</p>
-
-<br clear="all" />
-
-### JavaScript & TypeScript
-
-<img align="right" src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript | TypeScript" />
-
-<p>My go-to for frontend work: fast, flexible, and occasionally the source of bugs I still don't fully understand. Core to nearly every frontend I've built.</p>
-
-<br clear="all" />
-
-### Python & Java
-
-<img align="right" src="https://skillicons.dev/icons?i=python,java" alt="Python | Java" />
-
-<p>My choice for clean, modular backends. Java pairs naturally with strong architecture; Python (especially Django) takes more deliberate structuring to hit the same bar.</p>
-
-<br clear="all" />
-
-### Deployment
-
-<img align="right" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-
-<p><strong>Docker</strong> by default, a nice preview of the YAML complexity Kubernetes brings.</p>
-
-<br clear="all" />
 
 ## Project tech stacks
 
@@ -125,5 +82,49 @@ Repository: [Ninja Gear](https://github.com/DidacDV/NinjaGear-2D)
 <img height="35" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;
 <img height="35" alt="OpenGL" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/opengl.svg" />
 </div>
+
+<br clear="all" />
+
+## Technologies
+
+<p>A rundown of the tools and languages I've worked with across academic and professional projects. What I reach for, and why.</p>
+
+### Version control
+
+<img align="right" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Git | GitHub | GitLab" />
+
+<p><strong>Git</strong> and <strong>GitLab</strong>, daily with Gitflow-style branching. Team merges over rebases, personal opinion (sorry, rebase lovers).</p>
+
+<br clear="all" />
+
+### C & C++
+
+<img align="right" src="https://skillicons.dev/icons?i=c,cpp" alt="C | C++" />
+
+<p>Where I learned the fundamentals. Proudest project: <a href="https://github.com/DidacDV/NinjaGear-2D.git">Ninja Gear</a>, a 2D Metal Gear-inspired game.</p>
+
+<br clear="all" />
+
+### JavaScript & TypeScript
+
+<img align="right" src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript | TypeScript" />
+
+<p>My go-to for frontend work: fast, flexible, and occasionally the source of bugs I still don't fully understand. Core to nearly every frontend I've built.</p>
+
+<br clear="all" />
+
+### Python & Java
+
+<img align="right" src="https://skillicons.dev/icons?i=python,java" alt="Python | Java" />
+
+<p>My choice for clean, modular backends. Java pairs naturally with strong architecture; Python (especially Django) takes more deliberate structuring to hit the same bar.</p>
+
+<br clear="all" />
+
+### Deployment
+
+<img align="right" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+
+<p><strong>Docker</strong> by default, a nice preview of the YAML complexity Kubernetes brings.</p>
 
 <br clear="all" />
