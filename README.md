@@ -1,15 +1,17 @@
 # About me 
 My name is Rubén Pal**à** Vacas.
 
-I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), [Facultat d'Informàtica de Barcelona](https://www.fib.upc.edu/es).
+I'm a freshly graduated student at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca), [Facultat d'Informàtica de Barcelona](https://www.fib.upc.edu/es).
 
 ## Technologies
+
+<p>A rundown of the tools and languages I've worked with across academic and professional projects. What I reach for, and why.</p>
 
 ### Version control
 
 <img align="right" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Git | GitHub | GitLab" />
 
-<p>I use <strong>Git</strong> and <strong>GitLab</strong> daily for collaboration and delivery: <strong>Gitflow-style</strong> branching. Although I'd like to say I am equally comfortable with merges or rebases, I must say I prefer merges - sorry for rebase lovers.</p>
+<p><strong>Git</strong> and <strong>GitLab</strong>, daily with Gitflow-style branching. Team merges over rebases, personal opinion (sorry, rebase lovers).</p>
 
 <br clear="all" />
 
@@ -17,7 +19,7 @@ I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www
 
 <img align="right" src="https://skillicons.dev/icons?i=c,cpp" alt="C | C++" />
 
-<p>The foundation of computer science, and the best tool to learn the basics and prove your skills. The project I am the proudest of in C++ is a Metal Gear rethink: Ninja Gear. You can check it out here: <a href="https://github.com/DidacDV/NinjaGear-2D.git">Ninja Gear</a>.</p>
+<p>Where I learned the fundamentals. Proudest project: <a href="https://github.com/DidacDV/NinjaGear-2D.git">Ninja Gear</a>, a 2D Metal Gear-inspired game.</p>
 
 <br clear="all" />
 
@@ -25,7 +27,7 @@ I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www
 
 <img align="right" src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript | TypeScript" />
 
-<p>The materialization of a love-hate relationship in computer science. The best technologies for web-design, fast and scalable projects. However, the source of some of the most undebuggable, unthinkable bugs an engineer has ever seen. They are the foundation of most of the frontends - if not all - I have made. As a consequence, I have very good skills with them.</p>
+<p>My go-to for frontend work: fast, flexible, and occasionally the source of bugs I still don't fully understand. Core to nearly every frontend I've built.</p>
 
 <br clear="all" />
 
@@ -33,7 +35,7 @@ I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www
 
 <img align="right" src="https://skillicons.dev/icons?i=python,java" alt="Python | Java" />
 
-<p>My technologies of choice for reliable, modular and clean backends. Although I must say that Java and Clean Code (or any decent software architecture) make a better duo, adapting some Python frameworks -such as Django- to fit commonly used software patterns has proved to be a challenging milestone for me.</p>
+<p>My choice for clean, modular backends. Java pairs naturally with strong architecture; Python (especially Django) takes more deliberate structuring to hit the same bar.</p>
 
 <br clear="all" />
 
@@ -41,7 +43,7 @@ I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www
 
 <img align="right" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 
-<p><strong>Docker</strong> is my default for <strong>deployment</strong>. It is also my oportunity to cultivate skills in other fields different from software engineering. It is also a great sneek-peek of the YAML hell that Kubernetes is...</p>
+<p><strong>Docker</strong> by default, a nice preview of the YAML complexity Kubernetes brings.</p>
 
 <br clear="all" />
 
@@ -51,7 +53,7 @@ I'm a fourth year student at [Universitat Politècnica de Catalunya](https://www
 
 <img align="right" width="380" alt="eCMR logistics application" src="truck.jpg" />
 
-A fullstack application that aimed to digitalize the process of signing and management CMR documents in logistics. Although details of the project are confidential, it was my first production project.
+A fullstack application digitalizing the signing and management of CMR documents in logistics. Details are confidential, but this was my first production project.
 
 <div align="center">
 <img height="35" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> &nbsp;&nbsp;
@@ -65,7 +67,9 @@ A fullstack application that aimed to digitalize the process of signing and mana
 
 <img align="right" width="380" alt="Healthcare survey system" src="hsus.png" />
 
-A survey system for the ease in the detection of endemic diseases in migrant population. A project which demonstrates that there are some projects where the challenge is not in the technological problems.
+A survey system easing the detection of endemic diseases in migrant populations. A great reminder that the hardest part of a project isn't always the technology.
+
+Site: [hsus.cat](https://hsus.cat/)
 
 <div align="center">
 <img height="35" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> &nbsp;&nbsp;
@@ -75,12 +79,11 @@ A survey system for the ease in the detection of endemic diseases in migrant pop
 
 <br clear="all" />
 
-
 ### Data integration platform prototype &nbsp; ![](https://via.placeholder.com/1/ccc/ccc?text=+)
 
 <img align="right" width="380" alt="Data integration platform prototype" src="sensebase.png" />
 
-A prototype of a web application which aimed to be a platform for seamless integration of data sources for their interpretation using LLMs. Although not a fully functional application, it was a journey to be in the mind of an entrepreneur building a startup.
+A prototype web platform for seamlessly integrating data sources for interpretation via LLMs. Not fully functional, but a great taste of what it's like to think like a startup founder.
 
 Repositories: [sensebase-frontend](https://github.com/DidacDV/sensebase-frontend) (frontend) · [sensebase-backend](https://github.com/rubenpalavacas/sensebase-backend) (backend).
 
@@ -96,7 +99,9 @@ Repositories: [sensebase-frontend](https://github.com/DidacDV/sensebase-frontend
 
 <img align="right" width="380" alt="Smart mobility services application" src="imove.png" />
 
-My bachelor's thesis, a fullstack application that integrates 4 mobility services, gathers data from many providers and aims to improve the efficiency of the city of Barcelona.
+My bachelor's thesis: a fullstack application integrating 4 mobility services, pulling data from multiple providers to improve urban efficiency in Barcelona.
+
+**App: [imove.upcxels.upc.edu](https://imove.upcxels.upc.edu/)** · Info: [imove.upc.edu](https://imove.upc.edu/es)
 
 <div align="center">
 <img height="35" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;&nbsp;
@@ -112,7 +117,7 @@ My bachelor's thesis, a fullstack application that integrates 4 mobility service
 
 <img align="right" width="380" alt="Metal Gear 2D spinoff" src="ninjagear.png" />
 
-A very fun university project in which a friend and I decided to create a Metal Gear clone but with Ninjas. It was also a good opportunity to tinker with software patterns, drawing on [Game Programming Patterns](https://gameprogrammingpatterns.com/), and to improve my C++ skills.
+A university project built with a friend: a Metal Gear clone, but with ninjas. A fun excuse to explore software patterns from [Game Programming Patterns](https://gameprogrammingpatterns.com/) and sharpen my C++ skills.
 
 Repository: [Ninja Gear](https://github.com/DidacDV/NinjaGear-2D)
 
